@@ -1,2 +1,4 @@
 This is my test file
 Patch creation
+This is my test file
+Patch creation
